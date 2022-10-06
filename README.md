@@ -26,7 +26,7 @@ In addition, due to the structure of the algorithm, it's much less complex to se
 ### The execution and transpilation time data:
 
 <div>
-    <span style="align: top; margin-right: 20px">
+    <span style="align: top; margin-right: 20px; background-color: red">
         <img src = "perf/ex_times.png" />
     </span>
     <span>
