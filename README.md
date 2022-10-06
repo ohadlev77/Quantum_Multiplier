@@ -1,7 +1,11 @@
 # Quantum Multiplier
 
-This small-scale program builds and runs quantum circuits for integers multiplication.
+This small-scale Qiskit-based program builds and runs quantum circuits for integers multiplication.
 The implementation is based on Fourier basis addition.
+
+# Requirements
+
+
 
 # Instructions
 
