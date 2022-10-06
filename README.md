@@ -3,10 +3,6 @@
 This small-scale Qiskit-based program builds and runs quantum circuits for integers multiplication.
 The implementation is based on Fourier basis addition.
 
-# Requirements
-
-
-
 # Instructions
 
 1. Copy the repository to your local machine (`git clone https://github.com/ohadlev77/Quantum_Multiplier.git`).
