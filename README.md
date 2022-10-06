@@ -27,7 +27,7 @@ In addition, due to the structure of the algorithm, it's much less complex to se
 
 <div>
     <span>
-        <img src = "perf/ex_times.png" />
+        <img src = "perf/ex_times.png" style="align: top; margin-right: 20px" />
     </span>
     <span>
         <img src = "perf/tp_times.png" />
