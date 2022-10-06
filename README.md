@@ -24,13 +24,6 @@ Since what affects the circuit depth and the gates count (and therefore the over
 In addition, due to the structure of the algorithm, it's much less complex to set the smaller integer as `number_1` and the larger integer as `number_2` compared to the opposite case. Even if the data is set the other way around, the program fix that (classically - that's a little 'cheat' but if `number_1` <= `number_2` in the first place it can be ignored).
 
 ### The execution and transpilation time data:
-
-<div>
-    <span style="align: top; margin-right: 20px; background-color: red">
-        dsa
-        <img src = "perf/ex_times.png" />
-    </span>
-    <span>
-        <img src = "perf/tp_times.png" />
-    </span>
+<div align = "center">
+    <img src = "perf/combined_tables.png" />
 </div>
