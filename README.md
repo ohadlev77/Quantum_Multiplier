@@ -23,10 +23,7 @@ Of course that the transpilation time varies between different computers since t
 Since what affects the circuit depth and the gates count (and therefore the overall performance) is the number of qubits that are needed to represent the integer - In the following data samplings of all-ones bitstrings integers are shown (1, 3, 7, 15, and so on..).
 In addition, due to the structure of the algorithm, it's much less complex to set the smaller integer as `number_1` and the larger integer as `number_2` compared to the opposite case. Even if the data is set the other way around, the program fix that (classically - that's a little 'cheat' but if `number_1` <= `number_2` in the first place it can be ignored).
 
-### The execution time data:
+### The execution and transpilation time data:
 
-<img src = "perf/exe_time.png" />
-
-### The transpilation timee data:
-
+<img src = "perf/ex_times.png" />
 <img src = "perf/tp_times.png" />
