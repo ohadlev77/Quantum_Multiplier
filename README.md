@@ -27,6 +27,7 @@ In addition, due to the structure of the algorithm, it's much less complex to se
 
 <div>
     <span style="align: top; margin-right: 20px; background-color: red">
+        dsa
         <img src = "perf/ex_times.png" />
     </span>
     <span>
