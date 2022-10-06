@@ -29,4 +29,4 @@ In addition, due to the structure of the algorithm, it's much less complex to se
 
 ### The transpilation timee data:
 
-<img src = "perf/tp_time.png" />
+<img src = "perf/tp_times.png" />
